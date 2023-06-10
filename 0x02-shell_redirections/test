@@ -1,0 +1,3 @@
+#!/bin/bash
+tr "W" "P"
+#grep -i "name" $text
